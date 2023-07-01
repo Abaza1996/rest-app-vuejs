@@ -1,0 +1,145 @@
+{
+  "users": [
+    {
+      "name": "Ahmed Abaza",
+      "email": "AhmedAbaza@Ahmed.com",
+      "pass": "AhmedAbaza",
+      "id": 1
+    },
+    {
+      "name": "b22222222222",
+      "email": "b22222222@b22.com",
+      "pass": "22222222222222222222",
+      "id": 2
+    },
+    {
+      "name": "Ali Ayman Abaza",
+      "email": "ali22222222@b22.com",
+      "pass": "alialialiali",
+      "id": 3
+    },
+    {
+      "name": "Sameh Salah",
+      "email": "adhjbvf5@fwrn.com",
+      "pass": "888888888888888888",
+      "id": 4
+    }
+  ],
+  "locations": [
+    {
+      "name": "Meet-moot33",
+      "phone": "123.456.789",
+      "address": "Cairo-6October",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "name": "KFC Restaurant",
+      "phone": "5555555555",
+      "address": "Cairo-Haram",
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "name": "Hooks Fish",
+      "phone": "2222222222222",
+      "address": "New York 22",
+      "userId": 2,
+      "id": 4
+    },
+    {
+      "name": "Burger King",
+      "phone": "2222222222222",
+      "address": "Washonton22",
+      "userId": 2,
+      "id": 5
+    },
+    {
+      "name": "Pizza Hut 22",
+      "phone": "2222222222",
+      "address": "London222222",
+      "userId": 2,
+      "id": 6
+    }
+  ],
+  "categories": [
+    {
+      "name": "Breakfast",
+      "userId": 1,
+      "locationId": 3,
+      "id": 1
+    },
+    {
+      "name": "Dinner",
+      "userId": 1,
+      "locationId": 3,
+      "id": 3
+    },
+    {
+      "name": "Yum Yum 22",
+      "userId": 2,
+      "locationId": 4,
+      "id": 4
+    },
+    {
+      "name": "Eat 22",
+      "userId": 2,
+      "locationId": 4,
+      "id": 5
+    },
+    {
+      "name": "Food 22",
+      "userId": 2,
+      "locationId": 4,
+      "id": 6
+    },
+    {
+      "name": "Yum Yum 22",
+      "userId": 2,
+      "locationId": 5,
+      "id": 7
+    },
+    {
+      "name": "Eat 22",
+      "userId": 2,
+      "locationId": 5,
+      "id": 8
+    },
+    {
+      "name": "Food 22",
+      "userId": 2,
+      "locationId": 5,
+      "id": 9
+    },
+    {
+      "name": "Yum Yum 22",
+      "userId": 2,
+      "locationId": 6,
+      "id": 10
+    },
+    {
+      "name": "Eat 22",
+      "userId": 2,
+      "locationId": 6,
+      "id": 11
+    },
+    {
+      "name": "Food 22",
+      "userId": 2,
+      "locationId": 6,
+      "id": 12
+    }
+  ],
+  "items": [
+    {
+      "name": "Philly Steak Sandwich",
+      "price": 35.99,
+      "description": "Server with Fries and Drink",
+      "qty": 230,
+      "userId": 1,
+      "locId": 1,
+      "catId": 1,
+      "id": 1
+    }
+  ]
+}
